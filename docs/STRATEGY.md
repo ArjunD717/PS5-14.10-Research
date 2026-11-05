@@ -140,7 +140,7 @@ See `docs/PROLAPSE_CANVAS_UAF.md` for full technical details.
 
 ### kptr_hunt.py Offline Candidates
 
-`tools/kptr_hunt.py` analyzed 13.60 handler decompilations and identified 17
+`tools/offline/kptr_hunt.py` analyzed 13.60 handler decompilations and identified 17
 OBJECT-sourced `copyout` candidates — handlers that copy kernel object contents to
 userland. These are worth testing with real arguments on 14.10 if any are reachable
 from the game process. The analysis is offline (static) and has not been validated

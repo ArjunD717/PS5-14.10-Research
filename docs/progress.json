@@ -264,7 +264,7 @@
   "evidence_hashes": {
     "docs/FINDINGS.md": "1d6e344d5829551d2b1c748a6704c424933ec12f6a00328582ba067bb88e26cb",
     "docs/PROBE_INDEX.md": "e51c46cdbfc3950a2699d5403e95e56bae954e8b60e763c931ec7b9b2d4bf76e",
-    "docs/STRATEGY.md": "7d3a5c9c6928ff3a6ae631715e300d5ef783d21b453a2f77d831bbf87bee934b",
+    "docs/STRATEGY.md": "4494efcf722189fc43d0d50d6a08f64197bc5a2b3505bdd1d918fc8a6e2d27c4",
     "docs/ATTACK_SURFACE.md": "a9898d47a918f2d62c883049b425c41f41b1498329f122a09ee950593075af24",
     "docs/WEBKIT_FINDINGS.md": "d817beb61bd6445c19e749b4d7507a22383a0be8a17973ae0204a8e381c769db",
     "results/45c_execution_reality_check_20261016_192713.txt": "5515271b9128072d6296e329c8d41006650dfefe6a4a5ae0bf5a2fe9ecbb5fb6",
